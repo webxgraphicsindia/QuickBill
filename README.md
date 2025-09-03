@@ -27,3 +27,25 @@ Database: MySQL
 Other: Firebase (for notifications & sync)
 
 📂 Project Structure
+QuickBill/
+│-- lib/              # Flutter app source code
+│-- assets/           # Images, icons, fonts
+│-- android/          # Android-specific code
+│-- ios/              # iOS-specific code
+│-- pubspec.yaml      # Project dependencies
+
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the repo and submit a PR.
+
+📜 License
+
+This project is licensed under the MIT License.
+
+📧 Contact
+
+👤 Developed by WebX Graphics India
+
+GitHub: webxgraphicsindia
+Email: webxgraphicsindia@gmail.com
