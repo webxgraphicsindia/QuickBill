@@ -1,16 +1,29 @@
-# quickbill
+📱 QuickBill – Billing & Invoicing App
 
-A new Flutter project.
+QuickBill is a modern billing and invoicing app built with Flutter. It helps businesses generate invoices, manage GST/discounts, share PDFs, and track payments with ease.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+🧾 Generate professional invoices
 
-A few resources to get you started if this is your first Flutter project:
+💰 Manage GST, discounts, and totals
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📂 Save and view invoice history
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📤 Share invoices as PDF
+
+🔄 Offline sync support
+
+🔔 Notifications & reminders
+
+🛠️ Tech Stack
+
+Frontend: Flutter (Dart)
+
+Backend: Laravel (API)
+
+Database: MySQL
+
+Other: Firebase (for notifications & sync)
+
+📂 Project Structure
